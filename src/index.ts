@@ -3,5 +3,6 @@ import { gsapHome } from '$utils/gsapHome';
 
 window.Webflow ||= [];
 window.Webflow.push(() => {});
+console.log('ancol koncol');
 
 gsapHome();
